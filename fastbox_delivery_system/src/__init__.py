@@ -1,0 +1,1 @@
+"""FastBox delivery simulator package."""
